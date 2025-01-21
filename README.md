@@ -45,3 +45,6 @@ Berikut adalah beberapa tampilan output dari program ini:
 * Form Nilai: Form untuk memasukkan nilai mata kuliah mahasiswa yang mencakup kolom untuk kode mata kuliah, nilai, dan lainnya.
 * Create Nilai: Tampilan form untuk menambahkan nilai baru bagi mahasiswa.
 * Update Nilai: Tampilan form untuk memperbarui nilai yang sudah ada untuk mahasiswa tertentu.
+
+  ![Screenshot 2025-01-21 103755](https://github.com/user-attachments/assets/f09addd1-820d-473d-b464-28185bf39762)
+
